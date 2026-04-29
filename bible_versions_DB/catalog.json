@@ -1,6 +1,6 @@
 [
   {
-    "fileName": "WLC.db",
+    "fileName": "WLCot.db",
     "fullNameEn": "Leningrad",
     "fullNameHe": "כתב יד לנינגרד",
     "shortNameEn": "WLC",
@@ -9,7 +9,7 @@
     "type": "OT"
   },
   {
-    "fileName": "Mesorah.db",
+    "fileName": "Mesorahot.db",
     "fullNameEn": "Masoretic",
     "fullNameHe": "נוסח המסורה (מכון ממרא)",
     "shortNameEn": "Mesorah",
@@ -36,7 +36,7 @@
     "type": "OT"
   },
   {
-    "fileName": "HOTMOD.db",
+    "fileName": "HebMod.db",
     "fullNameEn": "Modern Hebrew Old Testament (BSI)",
     "fullNameHe": "תנך בעברית בת־זמננו (החברה לכתבי הקודש בישראל)",
     "shortNameEn": "Modern",
