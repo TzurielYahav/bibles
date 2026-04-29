@@ -1,0 +1,83 @@
+[
+  {
+    "fileName": "WLC.db",
+    "fullNameEn": "Leningrad",
+    "fullNameHe": "כתב יד לנינגרד",
+    "shortNameEn": "WLC",
+    "shortNameHe": "לנינגרד",
+    "language": "he",
+    "type": "OT"
+  },
+  {
+    "fileName": "Mesorah.db",
+    "fullNameEn": "Masoretic",
+    "fullNameHe": "נוסח המסורה (מכון ממרא)",
+    "shortNameEn": "Mesorah",
+    "shortNameHe": "ממרא",
+    "language": "he",
+    "type": "OT"
+  },
+  {
+    "fileName": "HebDelitzsch12.db",
+    "fullNameEn": "Delitzsch",
+    "fullNameHe": "דליטש",
+    "shortNameEn": "Delitzsch",
+    "shortNameHe": "דליטש",
+    "language": "he",
+    "type": "NT"
+  },
+  {
+    "fileName": "HMOD2020.db",
+    "fullNameEn": "Modern 2020 (BSI)",
+    "fullNameHe": "עברית מודרנית (החברה לכתבי הקודש בישראל)",
+    "shortNameEn": "Modern",
+    "shortNameHe": "מודרני",
+    "language": "he",
+    "type": "OT"
+  },
+  {
+    "fileName": "HOTMOD.db",
+    "fullNameEn": "Modern Hebrew Old Testament (BSI)",
+    "fullNameHe": "תנך בעברית בת־זמננו (החברה לכתבי הקודש בישראל)",
+    "shortNameEn": "Modern",
+    "shortNameHe": "מודרני",
+    "language": "he",
+    "type": "OT"
+  },
+  {
+    "fileName": "HebBSI17.db",
+    "fullNameEn": "BSI 17",
+    "fullNameHe": "נוסח המסורה (החברה לכתבי הקודש בישראל)",
+    "shortNameEn": "BSI",
+    "shortNameHe": "מסורה",
+    "language": "he",
+    "type": "OT"
+  },
+  {
+    "fileName": "DanielHeb.db",
+    "fullNameEn": "Daniel (Hebrew)",
+    "fullNameHe": "ספר דניאל בעברית (גורדון)",
+    "shortNameEn": "Daniel",
+    "shortNameHe": "דניאל",
+    "language": "he",
+    "type": "OT"
+  },
+  {
+    "fileName": "EzraHeb.db",
+    "fullNameEn": "Ezra (Hebrew)",
+    "fullNameHe": "ספר עזרא בעברית (גורדון)",
+    "shortNameEn": "Ezra",
+    "shortNameHe": "עזרא",
+    "language": "he",
+    "type": "OT"
+  },
+  {
+    "fileName": "HebModNT.db",
+    "fullNameEn": "Modern Hebrew NT",
+    "fullNameHe": "ברית חדשה בעברית מודרנית",
+    "shortNameEn": "Modern NT",
+    "shortNameHe": "מודרני",
+    "language": "he",
+    "type": "NT"
+  }
+]
