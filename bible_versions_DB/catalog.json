@@ -79,5 +79,23 @@
     "shortNameHe": "מודרני",
     "language": "he",
     "type": "NT"
+  },
+  {
+    "fileName": "BSB_NT.db",
+    "fullNameEn": "Berean Standard Bible NT",
+    "fullNameHe": "ברית חדשה בתרגום בראה",
+    "shortNameEn": "BSB",
+    "shortNameHe": "תנך בראה",
+    "language": "en",
+    "type": "NT"
+  },
+  {
+    "fileName": "BSB_OT.db",
+    "fullNameEn": "Berean Standard Bible OT",
+    "fullNameHe": "תנך בתרגום בראה",
+    "shortNameEn": "BSB",
+    "shortNameHe": "תנך בראה",
+    "language": "en",
+    "type": "OT"
   }
 ]
