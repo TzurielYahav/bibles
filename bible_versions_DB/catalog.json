@@ -88,5 +88,41 @@
     "shortNameHe": "BSB",
     "language": "en",
     "type": "OT"
+  },
+  {
+    "fileName": "KJV_OT.db",
+    "fullNameEn": "King James Version Old Testament",
+    "fullNameHe": "תנך באנגלית בתרגום המלך ג'יימס",
+    "shortNameEn": "KJV",
+    "shortNameHe": "KJV",
+    "language": "en",
+    "type": "OT"
+  },
+  {
+    "fileName": "KJV_NT.db",
+    "fullNameEn": "King James Version New Testament",
+    "fullNameHe": "ברית חדשה באנגלית בתרגום המלך ג'יימס",
+    "shortNameEn": "KJV",
+    "shortNameHe": "KJV",
+    "language": "en",
+    "type": "NT"
+  },
+  {
+    "fileName": "ASV_OT.db",
+    "fullNameEn": "American Standard Version Old Testament",
+    "fullNameHe": "תנך באנגלית בתרגום הגרסה האמריקאית",
+    "shortNameEn": "ASV",
+    "shortNameHe": "ASV",
+    "language": "en",
+    "type": "OT"
+  },
+  {
+    "fileName": "ASV_NT.db",
+    "fullNameEn": "American Standard Version New Testament",
+    "fullNameHe": "ברית חדשה באנגלית בתרגום הגרסה האמריקאית",
+    "shortNameEn": "ASV",
+    "shortNameHe": "ASV",
+    "language": "en",
+    "type": "NT"
   }
 ]
