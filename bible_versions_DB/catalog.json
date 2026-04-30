@@ -1,7 +1,7 @@
 [
   {
     "fileName": "WLCot.db",
-    "fullNameEn": "Leningrad",
+    "fullNameEn": "Leningrad Codex",
     "fullNameHe": "כתב יד לנינגרד",
     "shortNameEn": "WLC",
     "shortNameHe": "לנינגרד",
@@ -10,9 +10,9 @@
   },
   {
     "fileName": "Mesorahot.db",
-    "fullNameEn": "Masoretic",
+    "fullNameEn": "Masoretic (Mamreh Institute)",
     "fullNameHe": "נוסח המסורה (מכון ממרא)",
-    "shortNameEn": "Mesorah",
+    "shortNameEn": "Mamreh",
     "shortNameHe": "ממרא",
     "language": "he",
     "type": "OT"
@@ -27,17 +27,8 @@
     "type": "NT"
   },
   {
-    "fileName": "HMOD2020.db",
-    "fullNameEn": "Modern 2020 (BSI)",
-    "fullNameHe": "עברית מודרנית (החברה לכתבי הקודש בישראל)",
-    "shortNameEn": "Modern",
-    "shortNameHe": "מודרני",
-    "language": "he",
-    "type": "OT"
-  },
-  {
     "fileName": "HebMod.db",
-    "fullNameEn": "Modern Hebrew Old Testament (BSI)",
+    "fullNameEn": "Modern Hebrew Old Testament (Bible Society Israel)",
     "fullNameHe": "תנך בעברית בת־זמננו (החברה לכתבי הקודש בישראל)",
     "shortNameEn": "Modern",
     "shortNameHe": "מודרני",
@@ -46,16 +37,16 @@
   },
   {
     "fileName": "HebBSI17.db",
-    "fullNameEn": "BSI 17",
-    "fullNameHe": "נוסח המסורה (החברה לכתבי הקודש בישראל)",
-    "shortNameEn": "BSI",
+    "fullNameEn": "Masoretic Hebrew Old Testament (Bible Society Israel)",
+    "fullNameHe": "תנך בנוסח המסורה (החברה לכתבי הקודש בישראל)",
+    "shortNameEn": "Mesorah",
     "shortNameHe": "מסורה",
     "language": "he",
     "type": "OT"
   },
   {
     "fileName": "DanielHeb.db",
-    "fullNameEn": "Daniel (Hebrew)",
+    "fullNameEn": "Daniel in Hebrew (Gordon)",
     "fullNameHe": "ספר דניאל בעברית (גורדון)",
     "shortNameEn": "Daniel",
     "shortNameHe": "דניאל",
@@ -64,7 +55,7 @@
   },
   {
     "fileName": "EzraHeb.db",
-    "fullNameEn": "Ezra (Hebrew)",
+    "fullNameEn": "Ezra in Hebrew (Gordon)",
     "fullNameHe": "ספר עזרא בעברית (גורדון)",
     "shortNameEn": "Ezra",
     "shortNameHe": "עזרא",
@@ -73,28 +64,28 @@
   },
   {
     "fileName": "HebModNT.db",
-    "fullNameEn": "Modern Hebrew NT",
-    "fullNameHe": "ברית חדשה בעברית מודרנית",
-    "shortNameEn": "Modern NT",
+    "fullNameEn": "Modern Hebrew New Testament (Bible Society Israel)",
+    "fullNameHe": "ברית חדשה בעברית מודרנית (החברה לכתבי הקודש בישראל)",
+    "shortNameEn": "Modern",
     "shortNameHe": "מודרני",
     "language": "he",
     "type": "NT"
   },
   {
     "fileName": "BSB_NT.db",
-    "fullNameEn": "Berean Standard Bible NT",
-    "fullNameHe": "ברית חדשה בתרגום בראה",
+    "fullNameEn": "Berean Standard Bible New Testament",
+    "fullNameHe": "ברית חדשה באנגלית בתרגום בראה",
     "shortNameEn": "BSB",
-    "shortNameHe": "תנך בראה",
+    "shortNameHe": "BSB",
     "language": "en",
     "type": "NT"
   },
   {
     "fileName": "BSB_OT.db",
-    "fullNameEn": "Berean Standard Bible OT",
-    "fullNameHe": "תנך בתרגום בראה",
+    "fullNameEn": "Berean Standard Bible Old Testament",
+    "fullNameHe": "תנך באנגלית בתרגום בראה",
     "shortNameEn": "BSB",
-    "shortNameHe": "תנך בראה",
+    "shortNameHe": "BSB",
     "language": "en",
     "type": "OT"
   }
