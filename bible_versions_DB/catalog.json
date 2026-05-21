@@ -29,7 +29,7 @@
   {
     "fileName": "HebMod.db",
     "fullNameEn": "Modern Hebrew Old Testament (Bible Society Israel)",
-    "fullNameHe": "תנך בעברית בת־זמננו (החברה לכתבי הקודש בישראל)",
+    "fullNameHe": "תנך בעברית בת־זמננו (החברה לכתבי הקודש)",
     "shortNameEn": "Modern",
     "shortNameHe": "מודרני",
     "language": "he",
@@ -37,8 +37,8 @@
   },
   {
     "fileName": "HebBSI17.db",
-    "fullNameEn": "Masoretic Hebrew Old Testament (Bible Society Israel)",
-    "fullNameHe": "תנך בנוסח המסורה (החברה לכתבי הקודש בישראל)",
+    "fullNameEn": "Masoretic Hebrew (Bible Society Israel)",
+    "fullNameHe": "נוסח המסורה (החברה לכתבי הקודש)",
     "shortNameEn": "Mesorah",
     "shortNameHe": "מסורה",
     "language": "he",
@@ -65,7 +65,7 @@
   {
     "fileName": "HebModNT.db",
     "fullNameEn": "Modern Hebrew New Testament (Bible Society Israel)",
-    "fullNameHe": "ברית חדשה בעברית מודרנית (החברה לכתבי הקודש בישראל)",
+    "fullNameHe": "ברית חדשה בעברית מודרנית (החברה לכתבי הקודש)",
     "shortNameEn": "Modern",
     "shortNameHe": "מודרני",
     "language": "he",
