@@ -30,6 +30,16 @@
     "version": "1.0"
   },
   {
+    "fileName": "HebDelitzsch26_NT.db",
+    "fullNameEn": "Delitzsch (new edition)",
+    "fullNameHe": "דליטש (מהדורה חדשה)",
+    "shortNameEn": "Delitzsch new",
+    "shortNameHe": "דליטש חדש",
+    "language": "he",
+    "type": "NT",
+    "version": "1.0"
+  },
+  {
     "fileName": "HebMod.db",
     "fullNameEn": "Modern Hebrew (Bible Society Israel)",
     "fullNameHe": "עברית בת־זמננו (החברה לכתבי הקודש)",
