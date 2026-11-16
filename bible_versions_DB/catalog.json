@@ -21,8 +21,8 @@
   },
   {
     "fileName": "HebDelitzsch12.db",
-    "fullNameEn": "Delitzsch",
-    "fullNameHe": "דליטש",
+    "fullNameEn": "Delitzsch (2012)",
+    "fullNameHe": "דליטש (2012)",
     "shortNameEn": "Delitzsch",
     "shortNameHe": "דליטש",
     "language": "he",
@@ -31,13 +31,13 @@
   },
   {
     "fileName": "HebDelitzsch26_NT.db",
-    "fullNameEn": "Delitzsch (new edition)",
-    "fullNameHe": "דליטש (מהדורה חדשה)",
+    "fullNameEn": "Delitzsch (new edition 2026)",
+    "fullNameHe": "דליטש (מהדורה חדשה 2026)",
     "shortNameEn": "Delitzsch new",
     "shortNameHe": "דליטש חדש",
     "language": "he",
     "type": "NT",
-    "version": "1.0"
+    "version": "1.1"
   },
   {
     "fileName": "HebMod.db",
@@ -145,6 +145,26 @@
     "fullNameHe": "תרגום הגרסה האמריקאית (ASV)",
     "shortNameEn": "ASV",
     "shortNameHe": "ASV",
+    "language": "en",
+    "type": "NT",
+    "version": "1.0"
+  },
+  {
+    "fileName": "NKJV_OT.db",
+    "fullNameEn": "New King James Version",
+    "fullNameHe": "תרגום המלך ג'יימס החדש (NKJV)",
+    "shortNameEn": "NKJV",
+    "shortNameHe": "NKJV",
+    "language": "en",
+    "type": "OT",
+    "version": "1.0"
+  },
+  {
+    "fileName": "NKJV_NT.db",
+    "fullNameEn": "New King James Version",
+    "fullNameHe": "תרגום המלך ג'יימס החדש (NKJV)",
+    "shortNameEn": "NKJV",
+    "shortNameHe": "NKJV",
     "language": "en",
     "type": "NT",
     "version": "1.0"
